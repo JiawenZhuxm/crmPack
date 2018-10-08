@@ -1,6 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 crmPack
+
+That Repository was migrated to https://stash.intranet.roche.com/stash/projects/GITHUBPUBLIC/repos/crmpack to get access please contact with Roche DevTools Support 
 =======
 
 [![Build Status](https://travis-ci.org/Roche/crmPack.svg?branch=master)](https://travis-ci.org/Roche/crmPack/)
